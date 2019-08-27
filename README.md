@@ -21,7 +21,6 @@ composer install
 
 ### Author
 
-Vivek Mishra
 [Vivek Mishra](https://www.vivek.netlify.com)
 
 ### Version
